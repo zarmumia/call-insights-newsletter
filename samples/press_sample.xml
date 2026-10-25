@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Fictional feed for the demo. Outlet and stories are invented. -->
+<rss version="2.0"><channel>
+<title>Example Finance Daily</title>
+<item><title>Tax authority launches online status tracker for refund requests</title>
+<link>https://example.com/news/refund-status-tracker</link>
+<pubDate>Thu, 22 Oct 2026 08:00:00 +0300</pubDate>
+<description>A new online page lets taxpayers see where their refund request stands.</description></item>
+<item><title>Reminder: refund claims can go back six years</title>
+<link>https://example.com/news/six-year-window</link>
+<pubDate>Mon, 12 Oct 2026 09:30:00 +0300</pubDate>
+<description>Taxpayers who missed a refund can still claim it for previous years.</description></item>
+<item><title>Local football club signs new coach</title>
+<link>https://example.com/sport/coach</link>
+<pubDate>Tue, 20 Oct 2026 18:00:00 +0300</pubDate>
+<description>Sports news from the weekend.</description></item>
+<item><title>Old story about refund rules</title>
+<link>https://example.com/news/old</link>
+<pubDate>Mon, 03 Mar 2025 09:00:00 +0200</pubDate>
+<description>Too old for this issue's news window.</description></item>
+</channel></rss>

@@ -1,0 +1,3 @@
+# One RSS/Atom feed per line: a URL, or a local file (relative to this file).
+# Replace these with real news sources for the client's field.
+press_sample.xml
